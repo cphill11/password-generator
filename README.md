@@ -13,5 +13,5 @@ A random password generator created to allow a user to provide components of the
 https://cphill11.github.io/password-generator/
 
 ## Contribution
-Completed by Criste Phillips; 
+Completed by Criste Phillips.
 Greatly assisted by Andres Long; TYSM!!
