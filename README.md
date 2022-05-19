@@ -10,7 +10,8 @@ A random password generator created to allow a user to provide components of the
 
 # Website
 
-https://cphill11.github.io/password-generator/
+[https://cphill11.github.io/password-generator/]
+https://github.com/cphill11/password-generator.git
 
 ## Contribution
 Completed by Criste Phillips.
